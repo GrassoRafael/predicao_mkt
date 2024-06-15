@@ -48,3 +48,7 @@ Execute o script principal:
 ````bash
 python base.ipynb
 ````
+
+# Execução Final
+Ao rodar o programa, será possível estimar o valor de retorno baseado no investimento em cada plataforma individualmente ou combinada. 
+![image](https://github.com/GrassoRafael/predicao_mkt/assets/150485894/ced0e0a4-c863-4883-b708-078ed8038add)
