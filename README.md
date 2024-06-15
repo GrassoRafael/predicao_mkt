@@ -1,5 +1,5 @@
-## Análise de Investimentos em Publicidade e Predição de Retorno de Vendas
-# Introdução
+# Análise de Investimentos em Publicidade e Predição de Retorno de Vendas
+## Introdução
 Uma empresa está investindo mensalmente em plataformas de publicidade online, como Youtube, Facebook e jornais (newspaper), para a prospecção de leads (pessoas interessadas em seus produtos). Para acompanhar o desempenho desses investimentos, a empresa registra todos os gastos com publicidade e todos os retornos de vendas gerados a partir desses investimentos.
 
 O objetivo deste projeto é analisar a relação entre os investimentos em publicidade e os retornos de vendas, além de identificar os fatores que mais impactam na geração de leads. Com base nessa análise, também buscamos criar um modelo de predição para estimar o retorno de vendas a partir de um determinado investimento em publicidade.
